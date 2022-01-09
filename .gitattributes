@@ -1,0 +1,2 @@
+*.zi filter=lfs diff=lfs merge=lfs -text
+*.hmi filter=lfs diff=lfs merge=lfs -text
